@@ -4,7 +4,7 @@ layout: two-cols
 
 # Git
 
-<img src="../img/logos/git.svg" style="height: 32px"><br>
+<img src="/img/logos/git.svg" style="height: 32px"><br>
 
 - Software-programma
 - Uitgebracht in 2005
@@ -15,7 +15,7 @@ layout: two-cols
 
 # GitHub
 
-<img src="../img/logos/github.svg" style="height: 32px"><br>
+<img src="/img/logos/github.svg" style="height: 32px"><br>
 
 - Platform voor het beheer van code met Git
 - Opgericht in 2008
