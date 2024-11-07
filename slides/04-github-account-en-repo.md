@@ -11,7 +11,7 @@ class: "text-center"
 
 ---
 layout: figure
-figureUrl: ../img/account-maken/signup.png
+figureUrl: img/account-maken/signup.png
 figureCaption: https://github.com/signup
 ---
 
@@ -19,7 +19,7 @@ figureCaption: https://github.com/signup
 
 ---
 layout: figure
-figureUrl: ../img/repository-aanmaken/new-repo.png
+figureUrl: img/repository-aanmaken/new-repo.png
 figureCaption: https://github.com/new
 ---
 

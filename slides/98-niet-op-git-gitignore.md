@@ -12,3 +12,5 @@ figureUrl: ../img/niet-op-git/bash.png
   - Mappen
   - Patronen (bijvoorbeeld `*.exe`, `*.dll`)
   - Uitzonderingen op de regels
+- Soms aangemaakt door je IDE
+- Kan met GitHub aangemaakt worden

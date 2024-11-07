@@ -1,7 +1,7 @@
 ---
 layout: figure-side
 figureFootnoteNumber: 2
-figureUrl: ../img/niet-op-git/55024598_9264826.svg
+figureUrl: img/niet-op-git/55024598_9264826.svg
 ---
 
 # Niet op Git

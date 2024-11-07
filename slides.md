@@ -41,13 +41,17 @@ src: slides/05-gh-desktop-setup.md
 ---
 
 ---
-src: slides/99-niet-op-git-quote.md
+src: slides/98-niet-op-git-quote.md
 ---
 
 ---
-src: slides/99-niet-op-git-details.md
+src: slides/98-niet-op-git-details.md
 ---
 
 ---
-src: slides/99-niet-op-git-gitignore.md
+src: slides/98-niet-op-git-gitignore.md
+---
+
+---
+src: slides/99-slides.md
 ---

@@ -1,6 +1,6 @@
 ---
 layout: figure
-figureUrl: ../img/github-desktop/website.png
+figureUrl: img/github-desktop/website.png
 figureCaption: https://github.com/apps/desktop
 ---
 
@@ -8,7 +8,7 @@ figureCaption: https://github.com/apps/desktop
 
 ---
 layout: figure
-figureUrl: ../img/github-desktop/signin.png
+figureUrl: img/github-desktop/signin.png
 figureCaption: Het startscherm van GitHub Desktop
 ---
 
@@ -16,7 +16,7 @@ figureCaption: Het startscherm van GitHub Desktop
 
 ---
 layout: figure
-figureUrl: ../img/github-desktop/clone.png
+figureUrl: img/github-desktop/clone.png
 figureCaption: Na inloggen zie je je repositories en kun je deze clonen
 ---
 
