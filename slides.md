@@ -33,21 +33,17 @@ src: slides/03-verschil-git-en-github.md
 ---
 
 ---
-src: slides/04-account-maken.md
+src: slides/04-github-account-en-repo.md
 ---
 
 ---
-src: slides/05-repository-aanmaken.md
+src: slides/05-gh-desktop-setup.md
 ---
 
 ---
-src: slides/06-gh-desktop-download.md
+src: slides/99-niet-op-git-quote.md
 ---
 
 ---
-src: slides/07-gh-desktop-signin.md
----
-
----
-src: slides/08-gh-desktop-clone.md
+src: slides/99-niet-op-git-details.md
 ---

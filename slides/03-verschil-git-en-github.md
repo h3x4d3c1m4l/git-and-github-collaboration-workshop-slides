@@ -20,8 +20,11 @@ layout: two-cols
 - Platform voor het beheer van code met Git
 - Opgericht in 2008
 - Van Microsoft<sup>1</sup>
-- Gratis te gebruiken<sup>2</sup>
-- Student Pack<sup>3</sup>
+- Gratis te gebruiken<sup>2</sup><sup>3</sup>
+- Functies buiten Git
+  - Pull requests/Issues
+  - Wiki, Projects (o.a. Kanban board)
+  - Actions
 
 <Footnotes separator>
   <Footnote :number=1><a href="https://tweakers.net/nieuws/139337/microsoft-neemt-github-over-voor-7-komma-5-miljard-dollar.html" rel="noreferrer" target="_blank">Sinds 2018</a></Footnote>
