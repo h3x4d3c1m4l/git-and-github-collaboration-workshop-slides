@@ -14,6 +14,7 @@ info: |
 
   Learn more at [Sli.dev](https://sli.dev)
 transition: slide-left
+colorSchema: dark
 ---
 
 # Git en GitHub
@@ -38,6 +39,14 @@ src: slides/04-github-account-en-repo.md
 
 ---
 src: slides/05-gh-desktop-setup.md
+---
+
+---
+src: slides/06-werkt-als-dropbox.md
+---
+
+---
+src: slides/07-git-concepten.md
 ---
 
 ---
