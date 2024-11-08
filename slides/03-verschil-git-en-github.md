@@ -20,7 +20,7 @@ layout: two-cols
 - Platform voor het beheer van code met Git
 - Opgericht in 2008
 - Van Microsoft<sup>1</sup>
-- Gratis te gebruiken<sup>2</sup><sup>3</sup>
+- Gratis te gebruiken<sup>2, 3</sup>
 - Functies buiten Git
   - Pull requests/Issues
   - Wiki, Projects (o.a. Kanban board)

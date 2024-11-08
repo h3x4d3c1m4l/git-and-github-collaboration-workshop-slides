@@ -1,9 +1,9 @@
 ---
 layout: figure-side
-figureUrl: ../img/niet-op-git/bash.png
+figureUrl: img/niet-op-git/bash.png
 ---
 
-# Niet op Git - .gitignore
+# Niet op Git -  .gitignore
 
 - Bestand, meestal in de hoofdmap
 - Heet altijd `.gitignore`
