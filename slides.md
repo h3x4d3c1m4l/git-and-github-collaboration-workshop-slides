@@ -50,6 +50,10 @@ src: slides/07-git-concepten.md
 ---
 
 ---
+src: slides/08-zelf-aan-de-slag.md
+---
+
+---
 src: slides/98-niet-op-git-quote.md
 ---
 
@@ -62,5 +66,5 @@ src: slides/98-niet-op-git-gitignore.md
 ---
 
 ---
-src: slides/99-slides.md
+src: slides/99-commit-message.md
 ---

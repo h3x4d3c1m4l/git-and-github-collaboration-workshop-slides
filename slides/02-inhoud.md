@@ -7,3 +7,12 @@
   - Zelf uitproberen
 - Een goede commit message
 - Wat niet op Git
+
+---
+
+# Wat behandelen we vandaag niet
+
+- Branches
+- Rebase
+- Pull requests
+- Issues

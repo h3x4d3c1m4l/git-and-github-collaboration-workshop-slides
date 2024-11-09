@@ -18,5 +18,10 @@
   "devDependencies": {
     "@iconify-json/lucide": "^1.2.11",
     "playwright-chromium": "^1.48.2"
+  },
+  "slidev": {
+    "addons": [
+      "@katzumi/slidev-addon-qrcode"
+    ]
   }
 }
