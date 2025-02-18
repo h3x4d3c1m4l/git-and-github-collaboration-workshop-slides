@@ -1,18 +1,15 @@
 # Inhoud
 
-- Verschil Git en GitHub
-- GitHub account en repository aanmaken
-- Hoe werkt Git
-  - Git operaties in GitHub Desktop
-  - Zelf uitproberen
-- Een goede commit message
+- Waarom versiebeheer?
+- Herhaling: Hoe werkt Git
+  - Git concepten/operaties
+  - Git clients, gebruik van GitHub Desktop
+- Commit messages
 - Wat niet op Git
+- Samenwerken
+  - Branches, pull requests
+  - Merge conflicts
+  - Oefening
+- Meenemen
 
----
-
-# Wat behandelen we vandaag niet
-
-- Branches
-- Rebase
-- Pull requests
-- Issues
+*Out of scope*: Git via terminal, Rebase, force push, forks
