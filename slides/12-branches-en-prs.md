@@ -1,5 +1,6 @@
 ---
 layout: center
+transition: fade
 class: "text-center"
 ---
 
@@ -45,19 +46,19 @@ gitGraph
 title: Voorbeeld 2 - Historie met 3 branch (main, feature-1, feature-2)
 ---
 gitGraph
-  commit id: "Initial commit" tag: "v1.0"
+  commit id: "Initial commit"
   branch feature-1
   commit id: "Feature 1 - Commit 1"
   commit id: "Feature 1 - Commit 2"
   checkout main
-  merge feature-1 tag: "Merge feature-1"
+  merge feature-1 id: "Merge feature-1"
 
   branch feature-2
   commit id: "Feature 2 - Commit 1"
   commit id: "Feature 2 - Commit 2"
   commit id: "Feature 2 - Commit 3"
   checkout main
-  merge feature-2 tag: "Merge feature-2"
+  merge feature-2 id: "Merge feature-2"
 ```
 
 ---

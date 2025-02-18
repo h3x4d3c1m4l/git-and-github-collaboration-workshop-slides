@@ -1,8 +1,6 @@
 ---
 layout: figure-side
-figureUrl: img/meenemen/in-case-of-fire.png
-figureCaption: Briefje bij Iranees webbedrijf.
-figureFootnoteNumber: 2
+figureUrl: img/meenemen/meme.png
 ---
 
 # Meenemen<sup>1</sup>
@@ -22,16 +20,12 @@ figureFootnoteNumber: 2
 
 <Footnotes separator>
   <Footnote :number=1>Deze slides staan op Brightspace (Onder week 2)</Footnote>
-  <Footnote :number=2>Bron: <a href="https://commons.wikimedia.org/wiki/User:Ladsgroup">Wikimedia user Ladsgroup</a></Footnote>
 </Footnotes>
 
 ---
 
 # Meenemen - Links
 
-- Oefenen:
-  - PR's: https://github.com/skills/review-pull-requests
-  - Merge conflicts: https://github.com/skills/resolve-merge-conflicts
 - Extra oefeningen en tips: https://github.com/Delta-N/hhs-s4-github-opdrachten
 - Git clients: https://git-scm.com/downloads/guis
 - GitHub docs: https://docs.github.com/en

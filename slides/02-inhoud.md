@@ -3,7 +3,7 @@
 - Waarom versiebeheer?
 - Herhaling: Hoe werkt Git
   - Git concepten/operaties
-  - Git clients, gebruik van GitHub Desktop
+  - Git clients, gebruik van VS Code
 - Commit messages
 - Wat niet op Git
 - Samenwerken

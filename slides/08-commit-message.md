@@ -19,3 +19,7 @@ figureUrl: img/commit-messages/orly.png
 - "Fix division by zero bug in Presenter View"
 - "Add demo screen for sales team"
 - "Fix x!=false warning at startup (ticket #104)"
+
+<Footnotes separator>
+  <Footnote :number=1>Afb. bron: <a href="https://x.com/thepracticaldev" target="_blank">@ThePracticalDev on X</a></Footnote>
+</Footnotes>

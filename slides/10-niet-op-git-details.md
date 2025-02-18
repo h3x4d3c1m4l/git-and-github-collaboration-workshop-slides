@@ -1,5 +1,6 @@
 ---
 layout: figure-side
+transition: fade
 figureFootnoteNumber: 2
 figureUrl: img/niet-op-git/55024598_9264826.svg
 ---
@@ -21,5 +22,5 @@ figureUrl: img/niet-op-git/55024598_9264826.svg
 
 <Footnotes separator>
   <Footnote :number=1><a href="https://git-lfs.com/" rel="noreferrer" target="_blank">git-lfs website</a></Footnote>
-  <Footnote :number=2><a href="https://www.freepik.com/free-vector/hand-drawn-no-data-concept_55024598.htm" rel="noreferrer" target="_blank">Image by pikisuperstar on Freepik</a></Footnote>
+  <Footnote :number=2>Afb. bron: <a href="https://www.freepik.com/free-vector/hand-drawn-no-data-concept_55024598.htm" rel="noreferrer" target="_blank">@pikisuperstar on Freepik</a></Footnote>
 </Footnotes>

@@ -17,6 +17,10 @@ colorSchema: dark
 ## <lucide-git-branch /> Samenwerken met versiebeheer
 
 ---
+src: slides/01-even-voorstellen.md
+---
+
+---
 src: slides/02-inhoud.md
 ---
 
@@ -29,7 +33,7 @@ src: slides/04-git-concepten.md
 ---
 
 ---
-src: slides/05-gh-desktop.md
+src: slides/05-git-client.md
 ---
 
 ---

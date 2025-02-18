@@ -1,5 +1,6 @@
 ---
 layout: figure
+transition: fade
 figureUrl: img/waarom-versiebeheer/file-not-found.png
 figureCaption: Hoe krijgen we dit terug...
 ---
@@ -8,6 +9,7 @@ figureCaption: Hoe krijgen we dit terug...
 
 ---
 layout: figure
+transition: fade
 figureUrl: img/waarom-versiebeheer/oud-versiebeheer.png
 figureCaption: Wat is er gewijzigd tussen de versies?
 ---
@@ -27,5 +29,24 @@ class: "text-center"
 </span>
 
 <Footnotes separator>
-  <Footnote :number=1>GitLab</Footnote>
+  <Footnote :number=1>Bron: <a href="https://about.gitlab.com/topics/version-control/" target="_blank">about.gitlab.com</a></Footnote>
 </Footnotes>
+
+---
+layout: figure-side
+figureUrl: img/waarom-versiebeheer/git-meme.png
+---
+
+# Waarom Git?
+
+- Goede softwareondersteuning
+  - Brede OS ondersteuning
+  - Veel clients
+- Veel keuze uit services
+  - Bekendst: GitHub, Bitbucket, Azure DevOps, GitLab, ...
+- Goed gedocumenteerd
+- Alternatieven:
+  - CVS: Traag
+  - SVN: Geen branches
+  - Microsoft TFS: Ingewikkeld, niet cross platform
+  - Mercurial: Goed, minder populair
