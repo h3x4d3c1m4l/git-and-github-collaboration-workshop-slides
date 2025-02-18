@@ -17,16 +17,21 @@ class: "text-center"
 
 ---
 layout: two-cols
+transition: fade
 ---
 
 # Git branches
 
 - Tot nu toe: lineare historie (vb. 1)
 - Nieuwe situatie commit maken (vb. 2):
-  1. Maak branch (aftakking) vanaf _main_
-  2. Werk aan feature of bugfix
-  3. Commit naar nieuwe branch
-  4. Ga naar GitHub, maak een pull request:
+  - Verboden naar _main_ te committen, wat wel:
+    1. Maak branch (aftakking) vanaf _main_
+    2. Werk aan feature of bugfix
+    3. Commit naar nieuwe branch
+    4. Rinse & repeat
+- Pull request: Verzoek om een branch te mergen in een andere branch
+  - Oftewel: De wijzigingen van een branch A bij een branch B te voegen
+  - Voorbeeld: _feature-1_ naar _main_
 
 ::right::
 
@@ -61,6 +66,20 @@ gitGraph
   merge feature-2 id: "Merge feature-2"
 ```
 
+---
+layout: figure
+transition: fade
+figureUrl: img/branches-and-prs/pull-requests.png
+figureCaption: De pull requests pagina van GitHub.
+---
+
+# GitHub pull requests
+
+---
+layout: figure
+transition: fade
+figureUrl: img/branches-and-prs/create-pull-requests.png
+figureCaption: Zorg voor een beschrijvende titel en omschrijving en maak de pull request.
 ---
 
 # GitHub pull requests

@@ -26,8 +26,10 @@ Verschillende opties:
 - Binnen VS Code:
   - Merge _main_ in jouw branch
   - Merk op dat VS Code conflicten toont
-  - Bekijk ze op bestandsniveau en geef aan welke wijzigingen meegenomen moeten worden
+  - Bekijk deze stuk voor stuk en geef aan welke wijzigingen meegenomen moeten worden
   - Commit en push
 - Binnen GitHub:
   - Open de conflicterende PR
-  - Klik (beneden) op
+  - Klik (beneden) op _Resolve conflicts_
+  - Pas handmatig alle bestanden aan
+    - Zoek uit wat de _conflict markers_ betekenen!

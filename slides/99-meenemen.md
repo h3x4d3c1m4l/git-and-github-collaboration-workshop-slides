@@ -1,11 +1,12 @@
 ---
 layout: figure-side
+transition: fade
 figureUrl: img/meenemen/meme.png
 ---
 
 # Meenemen<sup>1</sup>
 
-- Gebruik Git als 'safety net'
+- Gebruik Git als _safety net_
   - Gebruik branches
   - Commit en push regelmatig
 - Commit volgens best practises
