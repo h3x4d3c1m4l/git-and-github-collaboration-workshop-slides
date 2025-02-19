@@ -13,7 +13,7 @@ figureUrl: img/niet-op-git/55024598_9264826.svg
   - `.vscode`- en `.idea`-map
   - Uitzonderingen: Run configuratie
 - Build output, externe libraries, caches
-  - npm: `.node_modules`-map
+  - npm: `node_modules`-map
   - C#: `bin`- en `obj`-mappen
   - Python: Virtual environment
   - Windows: `thumbs.ds`, macOS: `.DS_Store`

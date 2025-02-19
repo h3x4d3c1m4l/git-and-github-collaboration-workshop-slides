@@ -40,9 +40,9 @@ figureCaption: Kies de repository die je wil clonen.
 
 - Log in bij GitHub en kies de repository of kopieer de URL uit je browser
 - Kies de map waar de repository gecloned mag worden
-  - Daar binnen wordt een *nieuwe* map gemaakt
-  - Kies een map die je terug kunt vinden (bv. Documenten)
-- De _remote repo_ wordt nu gedownload naar een _local repo_
+  - Git maakt een **nieuwe** map
+  - Kies een map waar je het terug kunt vinden (bv. Documenten, Desktop)
+- De _remote repo_ wordt nu gedownload naar een nieuwe _local repo_ in de gekozen map
 - Er wordt een automatisch _checkout_ van de _main_ branch uitgevoerd
 
 ---
@@ -55,7 +55,7 @@ figureCaption: Stage een deel, of stage in 1 keer alles.
 # VS Code - Stage
 
 - Stappen:
-  1. Je maakt wijzigingen
+  1. Wijzig code (fix bugs, maak features)
       - Maak, wijzig of wis bestanden
   2. Open VS Code, tabje _Source Control_
   3. Loop je wijzigingen na
@@ -72,7 +72,7 @@ figureCaption: Alles gestaged en de commit message geschreven? Klaar om te commi
 # VS Code - Commit
 
 - Stappen:
-  1. Je maakt wijzigingen
+  1. Wijzig code (fix bugs, maak features)
       - Maak, wijzig of wis bestanden
   2. Open VS Code, tabje _Source Control_
   3. Loop je wijzigingen na
@@ -89,7 +89,7 @@ figureUrl: img/vs-code/sync-changes.png
 # VS Code - Push
 
 - Stappen:
-  1. Je maakt wijzigingen
+  1. Wijzig code (fix bugs, maak features)
       - Maak, wijzig of wis bestanden
   2. Open VS Code, tabje _Source Control_
   3. Loop je wijzigingen na
@@ -99,3 +99,14 @@ figureUrl: img/vs-code/sync-changes.png
      - De commit staat nu in je _local repo_
   6. Klik op _Sync Changes 1↑_
      - De commit staat nu in je _remote repo_
+
+---
+layout: figure
+figureUrl: img/vs-code/view-graph.png
+---
+
+# VS Code - View graph
+
+Installeer: https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph
+
+![alt text](/img/vs-code/menu-view-graph.png)
