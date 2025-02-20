@@ -31,7 +31,6 @@ figureCaption: Gebruik het command menu (F1) om te clonen.
 
 ---
 layout: figure-side
-transition: fade
 figureUrl: img/vs-code/clone-from-url.png
 figureCaption: Kies de repository die je wil clonen.
 ---
@@ -99,6 +98,13 @@ figureUrl: img/vs-code/sync-changes.png
      - De commit staat nu in je _local repo_
   6. Klik op _Sync Changes 1↑_
      - De commit staat nu in je _remote repo_
+
+---
+layout: figure
+figureUrl: img/vs-code/pull.png
+---
+
+# VS Code - Pull
 
 ---
 layout: figure

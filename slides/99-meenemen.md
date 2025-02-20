@@ -25,7 +25,7 @@ figureUrl: img/meenemen/meme.png
 
 ---
 
-# Meenemen - Links
+# Meenemen - Links 🌐
 
 - Extra oefeningen en tips: https://github.com/Delta-N/hhs-s4-github-opdrachten
 - Git clients: https://git-scm.com/downloads/guis
